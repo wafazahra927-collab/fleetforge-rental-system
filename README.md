@@ -2,7 +2,7 @@
 
 A DBMS lab project: PHP/MySQL-backed vehicle rental management app with role-based admin/staff authentication.
 
-## Setup (WAMP / XAMPP)
+## Setup (WAMP )
 
 1. Place the `fleetforge` folder inside your server's web root (e.g. `C:/wamp64/www/`).
 2. Import `fleetforge/database.sql` into MySQL (via phpMyAdmin or CLI). This creates the `fleetforge` database, all tables, and two seed users.
